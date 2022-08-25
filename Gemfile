@@ -7,13 +7,14 @@ gem "rest-client"
 group :development do
   gem "pry"
 end
+# gem "rails"
 
 
-source "https://rubygems.org"
+# source "https://rubygems.org"
 
-gem "rest-client"
+# gem "rest-client"
 
-group :development do
-  gem "pry"
-end
+# group :development do
+#   gem "pry"
+# end
 # gem "rails"
